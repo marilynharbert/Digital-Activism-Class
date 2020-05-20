@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+#7
+
+CACHE:
+index.html
+main.css
+cleaner.js
+exif.js
+
+NETWORK:
+*
