@@ -1,37 +1,18 @@
-Welcome to Glitch
+Digital Activism Project
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+I created a project called Anonymous Photos in the Age of Facebook to raise awareness about threats to privacy and anonymity online and try to help protect people from some of these threats.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Did you know that your photos have metadata attached to them that have information like?:
+- the photographer's name
+- GPS coordinates where the photo was taken
+- date and time where the photo was taken
+- type of camera that took the photo
+- facial recognition tags placed by Apple Photos and Google Photos
+Did you know that even without that metadata, just by looking at a photo you took, Facebook can identify that you took it?
+- Facebook filed a patent in 2010 to allow them to associate users photos using just the flaws and imperfections in the camera lens and pixels as a "camera signature".
 
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+On this website you can:
+- Go to the about page to learn more about photo anonymity and how both privacy protecting tools work
+- Go to the photo cleaner page to upload a photo and download the image with some noise inserted, in an attempt to protect you - from being identified just by the patterns in the photo's pixels
+- Go to the metadata removal page to upload a photo and download the image with the metadata removed, in an attempt to protect the personally identifiable information in the metadata.
