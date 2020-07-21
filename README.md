@@ -1,7 +1,7 @@
 Digital Activism Project
 =================
 
-I created a project called Anonymous Photos in the Age of Facebook to raise awareness about threats to privacy and anonymity online and try to help protect people from some of these threats.
+I created a project called Anonymous Photos in the Age of Facebook to raise awareness about threats to privacy and anonymity online and try to help protect people from some of these threats. Link to the website here: https://digitalactivismproject.glitch.me/resources.html
 
 Did you know that your photos have metadata attached to them that have information like?:
 - the photographer's name
